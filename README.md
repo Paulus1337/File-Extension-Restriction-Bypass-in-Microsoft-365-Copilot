@@ -72,7 +72,7 @@ While the vulnerability was newly disclosed through this report, Microsoft appea
 `.txt`, `.text`, `.csv`, `.tsv`, `.md`, `.log`, `.html`, `.htm`, `.shtml`, `.shtm`, `.ehtml`, `.xml`, `.json`, `.yaml`, `.yml`, `.ini`, `.config`, `.utf8`
 
 ### Code & Scripts
-`.c`, `.cpp`, `.h`, `.java`, `.py`, `.js`, `.jsx`, `.tsx`, `.cs`, `.rs`, `.pl`, `.php`, `.sh`, `.bash`, `.dart`, `.lua`, `.sql`
+`.aspx`, `.c`, `.cpp`, `.h`, `.java`, `.py`, `.js`, `.jsx`, `.tsx`, `.cs`, `.rs`, `.pl`, `.php`, `.sh`, `.bash`, `.dart`, `.lua`, `.sql`
 
 ### Images
 `.jpg`, `.jpeg`, `.pjpeg`, `.pjp`, `.jfif`, `.png`, `.bmp`, `.gif`, `.webp`
